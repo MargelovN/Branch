@@ -1,0 +1,4 @@
+#ignore
+*tmp/
+*_old
+*_backup
